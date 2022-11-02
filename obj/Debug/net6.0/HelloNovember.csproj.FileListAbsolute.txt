@@ -1,0 +1,15 @@
+/Users/marlena1/repos/HelloNovember/HelloNovember/bin/Debug/net6.0/HelloNovember
+/Users/marlena1/repos/HelloNovember/HelloNovember/bin/Debug/net6.0/HelloNovember.deps.json
+/Users/marlena1/repos/HelloNovember/HelloNovember/bin/Debug/net6.0/HelloNovember.runtimeconfig.json
+/Users/marlena1/repos/HelloNovember/HelloNovember/bin/Debug/net6.0/HelloNovember.dll
+/Users/marlena1/repos/HelloNovember/HelloNovember/bin/Debug/net6.0/HelloNovember.pdb
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.csproj.AssemblyReference.cache
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.AssemblyInfoInputs.cache
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.AssemblyInfo.cs
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.csproj.CoreCompileInputs.cache
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.dll
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/refint/HelloNovember.dll
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.pdb
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/HelloNovember.genruntimeconfig.cache
+/Users/marlena1/repos/HelloNovember/HelloNovember/obj/Debug/net6.0/ref/HelloNovember.dll
